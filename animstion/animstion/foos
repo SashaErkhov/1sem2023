@@ -1,0 +1,28 @@
+#ifndef FOOS_2
+#define FOOS_2
+
+#include <iostream>
+#include <cstring>
+
+template <typename T>
+std::string tran10to2(T n)
+{
+	if(n==0)
+	{
+		return "000000000000000000000000000000000000000000000000000000000000000";
+	}
+	std::string s="";
+	while (n != 0)
+	{
+		s = char(n % 2 + 48) + s;
+		n /= 2;
+	}
+	int len = s.length();
+	for(size_t i=0;i!=(64-len);++i)
+	{
+		s='0'+s;
+	}
+	return s;
+}
+
+#endif //!FOOS

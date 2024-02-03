@@ -1,0 +1,3 @@
+﻿  animstion.cpp
+C:\Users\Октябрь17\source\repos\animstion\animstion\animstion.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  animstion.vcxproj -> C:\Users\Октябрь17\source\repos\animstion\x64\Debug\animstion.exe

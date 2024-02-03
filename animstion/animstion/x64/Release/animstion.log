@@ -1,0 +1,14 @@
+﻿  animstion.cpp
+C:\Users\Октябрь17\source\repos\animstion\animstion\animstion.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  foos.cpp
+C:\Users\Октябрь17\source\repos\animstion\animstion\foos(20,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Октябрь17\source\repos\animstion\animstion\foos.cpp(7,19): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::string tran10to2<unsigned __int64>(T)"
+          with
+          [
+              T=unsigned __int64
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  animstion.vcxproj -> C:\Users\Октябрь17\source\repos\animstion\x64\Release\animstion.exe
