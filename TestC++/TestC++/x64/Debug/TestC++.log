@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Октябрь17\source\repos\TestC++\TestC++\FileName.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Октябрь17\source\repos\TestC++\TestC++\FileName.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  TestC++.vcxproj -> C:\Users\Октябрь17\source\repos\TestC++\x64\Debug\TestC++.exe
