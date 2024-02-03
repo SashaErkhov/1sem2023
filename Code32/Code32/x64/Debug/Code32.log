@@ -1,0 +1,3 @@
+﻿  Code32.cpp
+C:\Users\Октябрь17\source\repos\Code32\Code32\Code32.cpp(293,12): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+  Code32.vcxproj -> C:\Users\Октябрь17\source\repos\Code32\x64\Debug\Code32.exe

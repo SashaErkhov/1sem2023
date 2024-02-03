@@ -1,0 +1,8 @@
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\obj\Debug\ConsoleAppTestXui.csproj.AssemblyReference.cache
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\obj\Debug\ConsoleAppTestXui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\obj\Debug\ConsoleAppTestXui.csproj.CoreCompileInputs.cache
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\bin\Debug\ConsoleAppTestXui.exe.config
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\bin\Debug\ConsoleAppTestXui.exe
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\bin\Debug\ConsoleAppTestXui.pdb
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\obj\Debug\ConsoleAppTestXui.exe
+C:\Users\Октябрь17\source\repos\ConsoleAppTestXui\ConsoleAppTestXui\obj\Debug\ConsoleAppTestXui.pdb
