@@ -1,0 +1,5 @@
+﻿  HexView.cpp
+C:\Users\Октябрь17\source\repos\HexView\HexView\HexView.cpp(173,19): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Октябрь17\source\repos\HexView\HexView\HexView.cpp(179,21): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Октябрь17\source\repos\HexView\HexView\HexView.cpp(258,22): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  HexView.vcxproj -> C:\Users\Октябрь17\source\repos\HexView\x64\Debug\HexView.exe

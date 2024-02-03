@@ -1,0 +1,4 @@
+﻿  data.cpp
+C:\Users\Октябрь17\source\repos\data\data\data.cpp(76,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Октябрь17\source\repos\data\data\data.cpp(81,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  data.vcxproj -> C:\Users\Октябрь17\source\repos\data\x64\Debug\data.exe
